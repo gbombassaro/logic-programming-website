@@ -30,7 +30,7 @@ git config --global user.name "Your Name"
 git config --global user.email "you@email.com"
 ```
 
-3. For git control there is a lot of possibilites. You can choose one
+3. For git control there is a lot of possibilities. You can choose one
 - Use command line (use ```git --help``` in command line for more information)
 - Use VSCode git control https://code.visualstudio.com/docs/editor/versioncontrol
 - Use GitKraken https://www.gitkraken.com/
