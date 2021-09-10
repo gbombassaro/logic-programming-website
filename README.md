@@ -13,7 +13,7 @@ This is a readme file written in Markdown and it's purpose is to be a documentat
 
 <br/>
 
-## How to donwload and run in local machine?
+## How to download and run in local machine?
 
 **Prerequisites:**
 - Git installed in local machine
